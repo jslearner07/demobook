@@ -43,7 +43,7 @@ title %0
 @REM set %HOME% to equivalent of $HOME
 if "%HOME%" == "" (set "HOME=%HOMEDRIVE%%HOMEPATH%")
 
-SET JAVA_HOME=D:\Users\T6739\Projects\openjdk-11+28_windows-x64_bin\jdk-11
+
 
 @REM Execute a user defined script before this one
 if not "%MAVEN_SKIP_RC%" == "" goto skipRcPre
